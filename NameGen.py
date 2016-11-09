@@ -3,7 +3,7 @@ NextA = ['b','c','d','e','f','h','g','i','k','l','m','n','o','p','r','s','t']
 NextB = ['a','b','e','i','o','u','y']
 NextC = ['a','e','h','i','o','u']
 NextD = ['a','d','e','i','o','u','y']
-NextE = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','p'
+NextE = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','p','q','r','s','t','v','w','x','y','z']
 NextF
 NextG
 NextH
