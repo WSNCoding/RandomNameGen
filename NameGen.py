@@ -23,5 +23,5 @@ NextU
 NextV
 NextW = ['a','e','i','y']#please check ones from here down if possible sincerely Jefff
 NextX = ['e']
-NextY = ['l','a','a','v']
+NextY = ['a','i','l','v']
 NextZ = ['a','i','o','y']
