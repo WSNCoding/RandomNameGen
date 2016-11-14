@@ -1,4 +1,4 @@
 # RandomNameGen
 
-goo.gl/WnSoT3 for word list spreadsheet
+http://goo.gl/WnSoT3 for word list spreadsheet
 
