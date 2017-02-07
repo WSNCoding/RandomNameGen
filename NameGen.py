@@ -25,7 +25,13 @@ NextS = ['a','e','i','o','u','t','v','h']
 NextT = ['a','e','i','o','u','y']
 NextU = ['r','g']
 NextV = ['a','i']
-NextW = ['a','e','i','y']#please check ones from here down if possible sincerely Jefff
-NextX = ['e']
+NextW = ['a','e','i','y']
+NextX = ['a','e']
 NextY = ['a','i','l','v']
 NextZ = ['a','i','o','y']
+name = []
+         
+name.append(letters[random.randint(0,25)]
+            if name[-1] = 'a':
+            name.append(NextA[randint(0,len(NextA))]
+                        if 
